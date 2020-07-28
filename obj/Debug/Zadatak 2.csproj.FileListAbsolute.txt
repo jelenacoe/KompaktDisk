@@ -1,0 +1,7 @@
+C:\Users\Zorana\Downloads\Cas 4 - Uvod u .NET\Zadatak 2\bin\Debug\Zadatak_2.exe.config
+C:\Users\Zorana\Downloads\Cas 4 - Uvod u .NET\Zadatak 2\bin\Debug\Zadatak_2.exe
+C:\Users\Zorana\Downloads\Cas 4 - Uvod u .NET\Zadatak 2\bin\Debug\Zadatak_2.pdb
+C:\Users\Zorana\Downloads\Cas 4 - Uvod u .NET\Zadatak 2\obj\Debug\Zadatak 2.csprojAssemblyReference.cache
+C:\Users\Zorana\Downloads\Cas 4 - Uvod u .NET\Zadatak 2\obj\Debug\Zadatak 2.csproj.CoreCompileInputs.cache
+C:\Users\Zorana\Downloads\Cas 4 - Uvod u .NET\Zadatak 2\obj\Debug\Zadatak_2.exe
+C:\Users\Zorana\Downloads\Cas 4 - Uvod u .NET\Zadatak 2\obj\Debug\Zadatak_2.pdb
